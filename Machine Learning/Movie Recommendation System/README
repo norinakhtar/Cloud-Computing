@@ -1,1 +1,7 @@
-COLLABORATIVE FILTERING
+COLLABORATIVE FILTERING:
+Collaborative filtering is commonly used for recommender systems. These techniques aim to fill in the missing entries of a user-item association matrix.
+spark.mllib currently supports model-based collaborative filtering, in which users and products are described by a small set of latent factors that can
+be used to predict missing entries. spark.mllib uses the alternating least squares (ALS) algorithm to learn these latent factors.
+
+Google slides Link:
+https://docs.google.com/presentation/d/1nGIq98ltAolYdzADMu7HW_8ysGFY2etwAF2S8QX_Lzw/edit#slide=id.gc6f90357f_0_0
