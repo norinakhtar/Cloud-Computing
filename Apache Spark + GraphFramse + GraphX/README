@@ -1,0 +1,2 @@
+GraphFrames is a package for Apache Spark that provides DataFrame-based graphs. It provides high-level APIs in Java, Python, and Scala.
+GraphFrames are used to do graph analytics.
